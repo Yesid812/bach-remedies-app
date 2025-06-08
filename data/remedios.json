@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "remedio": "Mimulus",
+    "sintomas": ["miedo_especifico", "timidez"],
+    "dosis": "4 gotas, 3 veces al día",
+    "explicacion": "Para miedos conocidos como hablar en público"
+  },
+  {
+    "id": 2,
+    "remedio": "Aspen",
+    "sintomas": ["miedo_irracional", "presentimientos"],
+    "dosis": "3 gotas cada 4 horas",
+    "explicacion": "Para temores vagos o desconocidos"
+  },
+  {
+    "id": 3,
+    "remedio": "Rock Rose",
+    "sintomas": ["terror", "panico"],
+    "dosis": "2 gotas en emergencias",
+    "explicacion": "Para situaciones de terror paralizante"
+  },
+  {
+    "id": 4,
+    "remedio": "Cherry Plum",
+    "sintomas": ["miedo_perder_control", "impulsos_destructivos"],
+    "dosis": "4 gotas cada 2 horas",
+    "explicacion": "Para miedo a perder el control"
+  },
+  {
+    "id": 5,
+    "remedio": "Red Chestnut",
+    "sintomas": ["preocupacion_otros", "miedo_por_seres_queridos"],
+    "dosis": "3 gotas, 3 veces al día",
+    "explicacion": "Para quienes sufren por sus seres queridos"
+  },
+  {
+    "id": 6,
+    "remedio": "Cerato",
+    "sintomas": ["duda_constante", "busca_aprobacion"],
+    "dosis": "4 gotas antes de decisiones",
+    "explicacion": "Para quienes dudan de sus decisiones"
+  },
+  {
+    "id": 7,
+    "remedio": "Scleranthus",
+    "sintomas": ["indecision", "oscilacion_emocional"],
+    "dosis": "2 gotas cada hora",
+    "explicacion": "Para dificultad para elegir"
+  },
+  {
+    "id": 8,
+    "remedio": "Gentian",
+    "sintomas": ["desaliento", "pesimismo"],
+    "dosis": "3 gotas cada 3 horas",
+    "explicacion": "Para al desánimo tras contratiempos"
+  },
+  {
+    "id": 9,
+    "remedio": "Gorse",
+    "sintomas": ["desesperanza", "derrotismo"],
+    "dosis": "4 gotas cada 4 horas",
+    "explicacion": "Para sentimientos de desesperanza"
+  },
+  {
+    "id": 10,
+    "remedio": "Hornbeam",
+    "sintomas": ["fatiga_mental", "postergacion"],
+    "dosis": "3 gotas al despertar",
+    "explicacion": "Para el cansancio mental"
+  },
+  {
+    "id": 11,
+    "remedio": "Wild Oat",
+    "sintomas": ["incertidumbre_vocacional", "insatisfaccion"],
+    "dosis": "4 gotas, 2 veces al día",
+    "explicacion": "Para incertidumbre sobre el camino de vida"
+  },
+  {
+    "id": 12,
+    "remedio": "Clematis",
+    "sintomas": ["ensuenio_excesivo", "desconexion_realidad"],
+    "dosis": "3 gotas cada 3 horas",
+    "explicacion": "Para falta de concentración"
+  },
+  {
+    "id": 13,
+    "remedio": "Honeysuckle",
+    "sintomas": ["nostalgia", "apego_pasado"],
+    "dosis": "4 gotas cuando surja el recuerdo",
+    "explicacion": "Para vivir anclado en el pasado"
+  },
+  {
+    "id": 14,
+    "remedio": "Wild Rose",
+    "sintomas": ["apatia", "resignacion"],
+    "dosis": "3 gotas cada 4 horas",
+    "explicacion": "Para falta de motivación"
+  },
+  {
+    "id": 15,
+    "remedio": "Olive",
+    "sintomas": ["agotamiento_extremo", "fatiga_fisica"],
+    "dosis": "4 gotas cada 2 horas",
+    "explicacion": "Para agotamiento físico y mental"
+  },
+  {
+    "id": 16,
+    "remedio": "White Chestnut",
+    "sintomas": ["pensamientos_recurrentes", "mente_ruidosa"],
+    "dosis": "3 gotas cuando aparezcan los pensamientos",
+    "explicacion": "Para diálogo interno constante"
+  },
+  {
+    "id": 17,
+    "remedio": "Mustard",
+    "sintomas": ["tristeza_sin_razon", "melancolia"],
+    "dosis": "4 gotas cuando aparezca la tristeza",
+    "explicacion": "Para tristeza sin causa aparente"
+  },
+  {
+    "id": 18,
+    "remedio": "Chestnut Bud",
+    "sintomas": ["repeticion_errores", "dificultad_aprender"],
+    "dosis": "3 gotas, 3 veces al día",
+    "explicacion": "Para aprender de las experiencias"
+  },
+  {
+    "id": 19,
+    "remedio": "Rescue Remedy",
+    "sintomas": ["shock", "estres_agudo", "emergencia_emocional"],
+    "dosis": "4 gotas bajo la lengua",
+    "explicacion": "Para situaciones de crisis emocional"
+  }
+]
